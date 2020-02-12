@@ -1,0 +1,8 @@
+<resources>
+	<color name="background">#ffffff</color>
+	<color name="unselected">#bbbbbb</color>
+	<color name="selected">#E01719</color>
+	<color name="selectedPress">#CDB380</color>
+	<color name="button">#dddddd</color>	
+	<color name="playing">#0000cc</color>
+</resources>

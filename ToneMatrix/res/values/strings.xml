@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="start_label">Start</string>
+	<string name="main_title">Controls</string>
+	<string name="app_name">ToneMatrix</string>
+	<string name="about_label">About Button Array</string>
+	<string name="about_text">This is the about text. More to come!</string>
+	<string name="about_title">About ButtonArray</string>
+</resources>
